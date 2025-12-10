@@ -1,0 +1,15 @@
+CREATE TABLE Employees
+ID     INT PRIMARY KEY'
+First Name    TEXT,
+Last Name     TEXT,
+Address       TEXT,
+Phone Number  TEXT,
+Email         TEXT,
+HireDate      DATE
+
+EmployeeID       First Name        Last Name         Address          Phone Number           Email                    HireDate
+001               John              Tran         621 Lester Ave     (916)588-7564    tngoc3395@gmail.com             12/12/2022
+002               Nancy            Nguyen        621 Lester Ave     (916)588-7569   ngannguyenthi1960@gmail.com      12/12/2022
+003               Hoai             Dang          621 Lester Ave     (916)793-0036     hoaidang8282@gmail.com         12/12/2022
+004               Au                Cao          853 Bush Ave       (559)341-5045      au.cao1981@gmail.com          12/12/2022
+005               Hoa               Tran         853 Bush Ave       (559)341-2454   phung.tran02121977@gmail.com     12/12/2022
